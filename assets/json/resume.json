@@ -27,7 +27,7 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
+  // "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
