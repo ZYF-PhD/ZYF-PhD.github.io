@@ -16,21 +16,15 @@
       "address": "1 Xuefu Ave., Chang’an District",
       "Zip code:": "710127",
       "city": "Xi’an",
-      "countryCode": "China",
-      "region": "Shaanxi Province"
+      "country": "China",
       }
     ],
    "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Northwest University",
+      "location": "Xi’an, China",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-09-01",
     }
   ],
   "publications": [
