@@ -1,10 +1,11 @@
 {
-  "basics": {
+  "basics": [
     "name": "Yangfan Zhang",
     "label": "PhD Candidate",
     "image": "",
     "email": "zhangyangfan1@stumail.nwu.edu.cn",
     "url": "https://ZYF-PhD.github.io/al-folio/",
+    "department": "School of Information Science and Technology, Northwest University"
     "location": {
       "address": "1 Xuefu Ave., Chang’an District",
       "Zip code:": "710127",
@@ -12,7 +13,7 @@
       "countryCode": "China",
       "region": "Shaanxi Province"
     },
-  },
+    ],
    "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
@@ -26,15 +27,15 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  //"awards": [
+    //{
+      //"title": "Nobel Prize in Physics",
+      //"date": "1921-11-01",
+      //"awarder": "Royal Swedish Academy of Sciences",
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      //"summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    //}
+  //],
   "certificates": [
     {
       "name": "Machine Learning",
