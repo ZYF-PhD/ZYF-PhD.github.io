@@ -8,12 +8,8 @@
             "url": "https://ZYF-PhD.github.io/al-folio/",
             "department": "School of Information Science and Technology, Northwest University",
             "lab": "NISL",
-            "location": {
-                "address": "1 Xuefu Ave., Chang’an District",
-                "Zip code:": "710127",
-                "city": "Xi’an",
-                "country": "China"
-            }
+            "location": "1 Xuefu Ave., Chang’an District, Xi’an, China",
+            "Zip code:": "710127",
         }
     ],
     "education": [
