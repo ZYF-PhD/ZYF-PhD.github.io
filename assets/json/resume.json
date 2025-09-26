@@ -5,11 +5,9 @@
             "label": "PhD Candidate",
             "research interests": "Wireless networks, the Internet of Things(IoT)",
             "email": "zhangyangfan1@stumail.nwu.edu.cn",
-            "url": "https://ZYF-PhD.github.io/al-folio/",
+            "url": "https://ZYF-PhD.github.io",
             "department": "School of Information Science and Technology, Northwest University",
             "lab": "NISL",
-            "location": "1 Xuefu Ave., Chang’an District, Xi’an, China",
-            "Zip code:": "710127",
         }
     ],
     "education": [
@@ -17,12 +15,12 @@
             "institution": "Northwest University",
             "location": "Xi’an, China",
             "studyType": "PhD",
-            "startDate": "2022-09-01"
+            "startDate": "2022-09"
         }
     ],
     "publications": [
         {
-            "name": "Zur Elektrody/namik bewegter Körper",
+            "name": "Hydra",
             "publisher": "Annalen der Physik",
             "releaseDate": "1905-06-30",
             "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
